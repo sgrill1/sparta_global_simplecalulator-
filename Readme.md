@@ -24,6 +24,13 @@ Challenges:
 
     - Getting feature two to only print one answer (not using ==)
     - Using braces instead of ifs
-    - Interaction between feature 1 and feature 2 (may work now with corrected errors)
+    - Interaction between feature 1 and feature 2 (works now with corrected errors)
+    - Getting else if to work for Feature 3
+    - Converting strings to integers for addition
 
 Skills used:
+
+    - Alerts & Prompts
+    - If statements
+    - While loops
+    - Breaking loops
